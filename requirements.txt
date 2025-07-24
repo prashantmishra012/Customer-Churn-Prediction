@@ -113,13 +113,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:c0eba736-28cd-be05-391f-b294e12a041a">
+  <meta name="fetch-nonce" content="v2:dd3f0864-a90b-8f5c-cbfe-fade969b1924">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="61DC:394F4C:176BF18:1C0E74B:6881F7E7" data-turbo-transient="true" /><meta name="html-safe-nonce" content="b050c59a052f7958dd827cf0e395a26b485a1b48892450c6ff7a75023ab2b4f0" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BZGl0eWFOTUdIVUIvQ3VzdG9tZXItQ2h1cm4tUHJlZGljdGlvbiIsInJlcXVlc3RfaWQiOiI2MURDOjM5NEY0QzoxNzZCRjE4OjFDMEU3NEI6Njg4MUY3RTciLCJ2aXNpdG9yX2lkIjoiODY2ODg1NDg0ODMwMjY0NDE3IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="87fe5d507aa8a6daa54671d301e57f42da626bac723ab4a082de661c4e58b13d" data-turbo-transient="true" />
+  <meta name="request-id" content="E2FB:124FF4:17B7E41:1C65133:6881FCF5" data-turbo-transient="true" /><meta name="html-safe-nonce" content="b050c59a052f7958dd827cf0e395a26b485a1b48892450c6ff7a75023ab2b4f0" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BZGl0eWFOTUdIVUIvQ3VzdG9tZXItQ2h1cm4tUHJlZGljdGlvbiIsInJlcXVlc3RfaWQiOiJFMkZCOjEyNEZGNDoxN0I3RTQxOjFDNjUxMzM6Njg4MUZDRjUiLCJ2aXNpdG9yX2lkIjoiODY2ODg1NDg0ODMwMjY0NDE3IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="ef107d987b84f75a8077232b0f7c322329a00350f0f918861580e753c0f3a840" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:1024967531" data-turbo-transient>
@@ -163,7 +163,7 @@
   
 
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/152586387/ws?session=eyJ2IjoiVjMiLCJ1IjoxNTI1ODYzODcsInMiOjE3MjI3ODQzNjQsImMiOjEyNTc3MzE5MzQsInQiOjE3NTMzNDgwODB9--aecd7be9fdd0c075773a6ecc75ef7fe082428f546b12415a0c6f0e0dba66224c" data-refresh-url="/_alive" data-session-id="e35587ce52321968ef4731e5c51c21436b259b84bea26c36a9bf020317cc3529">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/152586387/ws?session=eyJ2IjoiVjMiLCJ1IjoxNTI1ODYzODcsInMiOjE3MjI3ODQzNjQsImMiOjMyMjM3NTE1MjcsInQiOjE3NTMzNDkzNzV9--c7c30d40ef3a51512d193d527811a839e41a96c54026fa537cb7d4ba0a4cba89" data-refresh-url="/_alive" data-session-id="e35587ce52321968ef4731e5c51c21436b259b84bea26c36a9bf020317cc3529">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-9b665c8109c8.js">
 
 
@@ -265,19 +265,19 @@
       <div class="AppHeader-globalBar-start responsive-context-region">
         <div class="">
             <deferred-side-panel data-url="/_side-panels/global">
-  <include-fragment data-target="deferred-side-panel.fragment" data-nonce="v2:c0eba736-28cd-be05-391f-b294e12a041a" data-view-component="true">
+  <include-fragment data-target="deferred-side-panel.fragment" data-nonce="v2:dd3f0864-a90b-8f5c-cbfe-fade969b1924" data-view-component="true">
   
-      <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2" id="dialog-show-dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button p-0 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+      <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-a763c2db-b021-4437-baee-fc94d5b67189" id="dialog-show-dialog-a763c2db-b021-4437-baee-fc94d5b67189" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button p-0 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>
 
 <dialog-helper>
-  <dialog data-target="deferred-side-panel.panel" id="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2" aria-modal="true" aria-labelledby="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2-title" aria-describedby="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade Overlay--placement-left SidePanel Overlay--disableScroll">
+  <dialog data-target="deferred-side-panel.panel" id="dialog-a763c2db-b021-4437-baee-fc94d5b67189" aria-modal="true" aria-labelledby="dialog-a763c2db-b021-4437-baee-fc94d5b67189-title" aria-describedby="dialog-a763c2db-b021-4437-baee-fc94d5b67189-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade Overlay--placement-left SidePanel Overlay--disableScroll">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2-title">
+      <h1 class="Overlay-title sr-only" id="dialog-a763c2db-b021-4437-baee-fc94d5b67189-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -288,14 +288,14 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-a763c2db-b021-4437-baee-fc94d5b67189" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
   </div>
   
 </div>
-      <scrollable-region data-labelled-by="dialog-dcbb9c15-5113-4839-889b-c95fae7e7cc2-title">
+      <scrollable-region data-labelled-by="dialog-a763c2db-b021-4437-baee-fc94d5b67189-title">
         <div data-view-component="true" class="Overlay-body d-flex flex-column px-2">    <div data-view-component="true" class="d-flex flex-column mb-3">
         <nav aria-label="Site navigation" data-view-component="true" class="ActionList">
   
@@ -306,7 +306,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-hotkey="g d" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;HOME&quot;,&quot;label&quot;:null}" id="item-b936eed2-5e23-422f-b584-d16007b64a10" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;HOME&quot;,&quot;label&quot;:null}" id="item-1959f92d-fe07-42ba-abf8-689695c4f5e5" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -325,7 +325,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES&quot;,&quot;label&quot;:null}" id="item-3c611a41-172b-4ef3-9bf9-a0052cbab1bf" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES&quot;,&quot;label&quot;:null}" id="item-90e79a94-acd1-4da5-8e9a-526ab92fde09" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -344,7 +344,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS&quot;,&quot;label&quot;:null}" id="item-f739faae-da40-4a92-a6e0-642350334ce5" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS&quot;,&quot;label&quot;:null}" id="item-b44fbfaf-c72c-41e5-8020-77a00c86fbe7" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -363,7 +363,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-item-id="projects" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PROJECTS&quot;,&quot;label&quot;:null}" id="item-1b68d92f-5d52-4d03-8eb2-9015193d82b9" href="/projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PROJECTS&quot;,&quot;label&quot;:null}" id="item-0e08fc3b-68f3-423d-8907-6bfb34c572a8" href="/projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -382,7 +382,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DISCUSSIONS&quot;,&quot;label&quot;:null}" id="item-ddeb6a90-8d2b-4328-9609-686a49b71337" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DISCUSSIONS&quot;,&quot;label&quot;:null}" id="item-dcbe6bde-c5cd-41c1-ac8b-385c8d3fc46f" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -401,7 +401,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;CODESPACES&quot;,&quot;label&quot;:null}" id="item-361dc837-7db9-49a5-81e9-0a1862ab53d3" href="https://github.com/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;CODESPACES&quot;,&quot;label&quot;:null}" id="item-43667dbd-d84e-4c36-98a8-c6cf1adb14de" href="https://github.com/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -422,7 +422,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;COPILOT&quot;,&quot;label&quot;:null}" id="item-3cc28470-12f3-4356-8303-bba469763f74" href="/copilot" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;COPILOT&quot;,&quot;label&quot;:null}" id="item-81051278-9555-4ade-8773-637fee11b864" href="/copilot" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot">
     <path d="M7.998 15.035c-4.562 0-7.873-2.914-7.998-3.749V9.338c.085-.628.677-1.686 1.588-2.065.013-.07.024-.143.036-.218.029-.183.06-.384.126-.612-.201-.508-.254-1.084-.254-1.656 0-.87.128-1.769.693-2.484.579-.733 1.494-1.124 2.724-1.261 1.206-.134 2.262.034 2.944.765.05.053.096.108.139.165.044-.057.094-.112.143-.165.682-.731 1.738-.899 2.944-.765 1.23.137 2.145.528 2.724 1.261.566.715.693 1.614.693 2.484 0 .572-.053 1.148-.254 1.656.066.228.098.429.126.612.012.076.024.148.037.218.924.385 1.522 1.471 1.591 2.095v1.872c0 .766-3.351 3.795-8.002 3.795Zm0-1.485c2.28 0 4.584-1.11 5.002-1.433V7.862l-.023-.116c-.49.21-1.075.291-1.727.291-1.146 0-2.059-.327-2.71-.991A3.222 3.222 0 0 1 8 6.303a3.24 3.24 0 0 1-.544.743c-.65.664-1.563.991-2.71.991-.652 0-1.236-.081-1.727-.291l-.023.116v4.255c.419.323 2.722 1.433 5.002 1.433ZM6.762 2.83c-.193-.206-.637-.413-1.682-.297-1.019.113-1.479.404-1.713.7-.247.312-.369.789-.369 1.554 0 .793.129 1.171.308 1.371.162.181.519.379 1.442.379.853 0 1.339-.235 1.638-.54.315-.322.527-.827.617-1.553.117-.935-.037-1.395-.241-1.614Zm4.155-.297c-1.044-.116-1.488.091-1.681.297-.204.219-.359.679-.242 1.614.091.726.303 1.231.618 1.553.299.305.784.54 1.638.54.922 0 1.28-.198 1.442-.379.179-.2.308-.578.308-1.371 0-.765-.123-1.242-.37-1.554-.233-.296-.693-.587-1.713-.7Z"></path><path d="M6.25 9.037a.75.75 0 0 1 .75.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 .75-.75Zm4.25.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 1.5 0Z"></path>
@@ -441,7 +441,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem hide-whenRegular">
     
     
-    <a id="item-db8e7d3b-2629-4cea-b470-d7dc2bc56c1e" href="/copilot/spaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-f12b17a7-9dae-41dd-89e1-03ff8d8f85f3" href="/copilot/spaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg width="16" height="16" data-view-component="true">              <svg
                 width=16
@@ -473,7 +473,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem ActionListItem--hasSubItem hide-whenRegular">
     
     
-    <button id="item-8e1bf086-260f-4056-83af-03472feb1ccb" type="button" aria-expanded="false" data-action="
+    <button id="item-36a83e8f-2686-464f-9f06-0092629ed9f0" type="button" aria-expanded="false" data-action="
             click:nav-list#handleItemWithSubItemClick
             keydown:nav-list#handleItemWithSubItemKeydown
           " data-view-component="true" class="ActionListContent ActionListContent--visual16">
@@ -492,12 +492,12 @@
 </svg>
         </span>
 </button>
-        <ul role="list" data-action="keydown:nav-list#handleItemWithSubItemKeydown" aria-labelledby="item-8e1bf086-260f-4056-83af-03472feb1ccb" data-view-component="true" class="ActionList ActionList--subGroup">
+        <ul role="list" data-action="keydown:nav-list#handleItemWithSubItemKeydown" aria-labelledby="item-36a83e8f-2686-464f-9f06-0092629ed9f0" data-view-component="true" class="ActionList ActionList--subGroup">
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem--subItem ActionListItem">
     
     
-    <a id="item-d80f9671-4924-45a2-90ad-af6e10f30351" href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot" data-view-component="true" class="ActionListContent">
+    <a id="item-7d99ffa6-ff6f-41c6-8461-8c6b3eb36437" href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Visual Studio Code
@@ -510,7 +510,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem--subItem ActionListItem">
     
     
-    <a id="item-6dcbbe76-ca81-47c5-a579-61348a6b70d9" href="https://visualstudio.microsoft.com/github-copilot/" data-view-component="true" class="ActionListContent">
+    <a id="item-844ddc82-c838-42de-b946-d97ae1960141" href="https://visualstudio.microsoft.com/github-copilot/" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Visual Studio
@@ -523,7 +523,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem--subItem ActionListItem">
     
     
-    <a id="item-dd977589-83f0-4aa4-9c4f-6b7c76d81f4d" href="https://github.com/github/CopilotForXcode" data-view-component="true" class="ActionListContent">
+    <a id="item-c38730a3-ef89-43f3-986b-dc0059f2ddba" href="https://github.com/github/CopilotForXcode" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Xcode
@@ -536,7 +536,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem--subItem ActionListItem">
     
     
-    <a id="item-9c93b733-c488-45b9-a20d-9ab281a5315d" href="https://plugins.jetbrains.com/plugin/17718-github-copilot" data-view-component="true" class="ActionListContent">
+    <a id="item-151506be-2d22-4cd9-8dd5-479df596893f" href="https://plugins.jetbrains.com/plugin/17718-github-copilot" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           JetBrains
@@ -549,7 +549,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem--subItem ActionListItem">
     
     
-    <a id="item-2a5f7137-c413-4630-bc4c-5ec1c2898183" href="https://github.com/github/copilot.vim" data-view-component="true" class="ActionListContent">
+    <a id="item-933fffaf-12ac-4ef9-9744-18f9a5d4b0dd" href="https://github.com/github/copilot.vim" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Neovim
@@ -562,7 +562,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem--subItem ActionListItem">
     
     
-    <a id="item-f6b34123-48e2-4c27-a20d-a6707856260a" href="https://docs.github.com/en/copilot/how-tos/set-up/installing-github-copilot-in-the-cli" data-view-component="true" class="ActionListContent">
+    <a id="item-44f35e6f-f786-4bc3-b617-8c0370f347c5" href="https://docs.github.com/en/copilot/how-tos/set-up/installing-github-copilot-in-the-cli" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           CLI
@@ -581,7 +581,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;EXPLORE&quot;,&quot;label&quot;:null}" id="item-d348896d-45a9-42c1-8c80-904b27a31eeb" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;EXPLORE&quot;,&quot;label&quot;:null}" id="item-aa13acaa-266f-4776-a354-670dbfaaf8c9" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -600,7 +600,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;MARKETPLACE&quot;,&quot;label&quot;:null}" id="item-9b13f379-5f71-4a64-904c-fd9ae575f446" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;MARKETPLACE&quot;,&quot;label&quot;:null}" id="item-6ed002d6-7767-4212-8744-96348ce0adbf" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -712,22 +712,22 @@
       <li data-target="context-region-controller.overflowMenuContainer context-region.overflowMenuContainer" role="listitem" hidden>
         <action-menu data-target="context-region-controller.overflowActionMenu" data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-button" popovertarget="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-overlay" aria-controls="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-list" aria-haspopup="true" aria-labelledby="tooltip-6b313af5-fe1e-4c28-8efe-79d8cf02efa1" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-button" popovertarget="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-overlay" aria-controls="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-list" aria-haspopup="true" aria-labelledby="tooltip-abd6e4e5-7dd1-4bd0-a227-9021d1f65fe7" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-6b313af5-fe1e-4c28-8efe-79d8cf02efa1" for="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Show more breadcrumb items</tool-tip>
+</button><tool-tip id="tooltip-abd6e4e5-7dd1-4bd0-a227-9021d1f65fe7" for="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Show more breadcrumb items</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-overlay" anchor="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-overlay" anchor="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-button" id="action-menu-0ac7459b-39b6-4bdc-af8e-bd38b350eb7d-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-button" id="action-menu-6384953f-f694-4d14-8d11-7251e648ac3a-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-crumb-id="contextregion-usercrumb-adityanmghub" data-targets="context-region.overflowCrumbs action-list.items" data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_overflow_menu_crumb&quot;,&quot;label&quot;:&quot;global-navigation&quot;}" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-82027cd2-376c-4035-a685-95bd59339345" href="/AdityaNMGHUB" role="menuitem" data-view-component="true" class="ActionListContent">
+    <a tabindex="-1" id="item-d5f1c6a6-f999-49c9-9226-0a3d4658ab98" href="/AdityaNMGHUB" role="menuitem" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           AdityaNMGHUB
@@ -738,7 +738,7 @@
         <li hidden="hidden" data-crumb-id="contextregion-repositorycrumb-customer-churn-prediction" data-targets="context-region.overflowCrumbs action-list.items" data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_overflow_menu_crumb&quot;,&quot;label&quot;:&quot;global-navigation&quot;}" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-94c3d27b-e224-4ef2-adeb-53adabefb3e2" href="/AdityaNMGHUB/Customer-Churn-Prediction" role="menuitem" data-view-component="true" class="ActionListContent">
+    <a tabindex="-1" id="item-24b85d8d-7365-4028-b69b-e210348778a0" href="/AdityaNMGHUB/Customer-Churn-Prediction" role="menuitem" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Customer-Churn-Prediction
@@ -803,7 +803,7 @@
               
 
 
-<qbsearch-input class="search-input" data-scope="repo:AdityaNMGHUB/Customer-Churn-Prediction" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="M_KKO40yQB8Hg_SWF_iX97NDMjRoxTQfk9LD83qOZuqOXbfJp0bi-j1YJNoU-DP7YY32s2AJce08i2SFHaYCGA" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="AdityaNMGHUB/Customer-Churn-Prediction" data-current-org="" data-current-owner="AdityaNMGHUB" data-logged-in="true" data-copilot-chat-enabled="true" data-nl-search-enabled="false">
+<qbsearch-input class="search-input" data-scope="repo:AdityaNMGHUB/Customer-Churn-Prediction" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="J4E7yFHl5cfkjnPOXhFKCFjvOj_fgdlSuYDHDSVgprqaLgY6e5FHIt5Vo4JdEe4EiiH-uNdNnKAW2WB7QkjCSA" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="AdityaNMGHUB/Customer-Churn-Prediction" data-current-org="" data-current-owner="AdityaNMGHUB" data-logged-in="true" data-copilot-chat-enabled="true" data-nl-search-enabled="false">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -887,7 +887,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-4522d747-2f0f-4710-93f6-f20c01eff3ce" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-a2d12acf-5bc2-4b76-aaae-edbe6d67828c" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1125,7 +1125,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-4522d747-2f0f-4710-93f6-f20c01eff3ce" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-a2d12acf-5bc2-4b76-aaae-edbe6d67828c" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1170,7 +1170,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NrNGGHCFgaNvwtFkmIFGTwTGW3G8hpbRNvJ4G2iCFr22ZqokGiixVKvopwtGlzrfy0Yym5UVwUJG61nmL4dH6A" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="15rbXOUd0uOXH1hvpjYuHvfg8EI8CLJ107bzRf6Ezg1XTzdgj7DiFFM1LgB4IFKOOGCZqBWb5eajr9K4uYGfWA" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1208,7 +1208,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UWr3v0kGv2vni59wVfGMVnWP2XTnP3BQQPiVl1r1RiRF_xk26z4pVXcaYuRMpWQpt-WfaN1VH6lqqS4TxLy1gA" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qTiMyFCv1guQ5_hDb3bdJ8la9NBgOMuP_8_hc4GPvxO9rWJB8pdANQB2Bdd2IjVYCzCyzFpSpHbVnlr3H8ZMtw" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1226,7 +1226,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="5pHBCZr1aKsdVZXilF4apuDktl3X3eVyJTanpseGZogOa3h2DgDJ0oZ6NV3Uh2KbCM2QkjHY5yM-k9KZlMei1g" data-csrf="true" />
+              <input type="hidden" value="HWqjd2oVYpsn9iDGpHeOujIUwR8TQF8ioHBrtGEZIfT1kBoI_uDD4rzZgHnkrvaH2j3n0PVFXXO71R6LMljlqg" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -1263,7 +1263,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input>  <input type="hidden" value="vFdlDIxznf0N_cIyNMVu2DGmGf4UrTWIlvpKRiYC1EECIQvmNk-dVL3xuEaP2r2sgVvTEvHQ4dNxzwlQDP59dQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input>  <input type="hidden" value="wzkI1lGpyfXGMAGBrgC3Ol4A9hCuMAxAzq8sGV6b-bt9T2Y865XJXHY8e_UVH2RO7v08_EtN2Bspmm8PdGdQjw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
 
           </div>
@@ -1271,10 +1271,10 @@
         
           <div class="AppHeader-CopilotChat hide-sm hide-md">
   <react-partial-anchor>
-      <a href="/copilot" data-target="react-partial-anchor.anchor" id="copilot-chat-header-button" aria-labelledby="tooltip-c0a99216-e08d-4511-b0d0-d8951348def2" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button AppHeader-buttonLeft cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot Button-visual">
+      <a href="/copilot" data-target="react-partial-anchor.anchor" id="copilot-chat-header-button" aria-labelledby="tooltip-bf8e663b-3486-4d91-afca-1f9d401ece45" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button AppHeader-buttonLeft cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot Button-visual">
     <path d="M7.998 15.035c-4.562 0-7.873-2.914-7.998-3.749V9.338c.085-.628.677-1.686 1.588-2.065.013-.07.024-.143.036-.218.029-.183.06-.384.126-.612-.201-.508-.254-1.084-.254-1.656 0-.87.128-1.769.693-2.484.579-.733 1.494-1.124 2.724-1.261 1.206-.134 2.262.034 2.944.765.05.053.096.108.139.165.044-.057.094-.112.143-.165.682-.731 1.738-.899 2.944-.765 1.23.137 2.145.528 2.724 1.261.566.715.693 1.614.693 2.484 0 .572-.053 1.148-.254 1.656.066.228.098.429.126.612.012.076.024.148.037.218.924.385 1.522 1.471 1.591 2.095v1.872c0 .766-3.351 3.795-8.002 3.795Zm0-1.485c2.28 0 4.584-1.11 5.002-1.433V7.862l-.023-.116c-.49.21-1.075.291-1.727.291-1.146 0-2.059-.327-2.71-.991A3.222 3.222 0 0 1 8 6.303a3.24 3.24 0 0 1-.544.743c-.65.664-1.563.991-2.71.991-.652 0-1.236-.081-1.727-.291l-.023.116v4.255c.419.323 2.722 1.433 5.002 1.433ZM6.762 2.83c-.193-.206-.637-.413-1.682-.297-1.019.113-1.479.404-1.713.7-.247.312-.369.789-.369 1.554 0 .793.129 1.171.308 1.371.162.181.519.379 1.442.379.853 0 1.339-.235 1.638-.54.315-.322.527-.827.617-1.553.117-.935-.037-1.395-.241-1.614Zm4.155-.297c-1.044-.116-1.488.091-1.681.297-.204.219-.359.679-.242 1.614.091.726.303 1.231.618 1.553.299.305.784.54 1.638.54.922 0 1.28-.198 1.442-.379.179-.2.308-.578.308-1.371 0-.765-.123-1.242-.37-1.554-.233-.296-.693-.587-1.713-.7Z"></path><path d="M6.25 9.037a.75.75 0 0 1 .75.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 .75-.75Zm4.25.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 1.5 0Z"></path>
 </svg>
-</a><tool-tip id="tooltip-c0a99216-e08d-4511-b0d0-d8951348def2" for="copilot-chat-header-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Chat with Copilot</tool-tip>
+</a><tool-tip id="tooltip-bf8e663b-3486-4d91-afca-1f9d401ece45" for="copilot-chat-header-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Chat with Copilot</tool-tip>
 
     <template data-target="react-partial-anchor.template">
       <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_tanstack_query-core_build_modern_queryObserver_js-node_modules_tanstack_-defd52-0024bc0658ed.js" defer="defer"></script>
@@ -1298,7 +1298,7 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/ui_packages_copilot-chat_hooks_use-chat-message-behavior_ts-ui_packages_copilot-chat_hooks_us-6b2706.d80ecc009268f20e382c.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/copilot-chat.6ae9ba57f0d371044f7d.module.css" />
       <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/copilot-markdown-rendering-ddd978d4a7c0.css" />
-      <include-fragment src="/github-copilot/chat?skip_anchor=true" data-nonce="v2:c0eba736-28cd-be05-391f-b294e12a041a" data-view-component="true">
+      <include-fragment src="/github-copilot/chat?skip_anchor=true" data-nonce="v2:dd3f0864-a90b-8f5c-cbfe-fade969b1924" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1317,10 +1317,10 @@
     </template>
   </react-partial-anchor>
   <react-partial-anchor>
-    <button id="global-copilot-menu-button" data-target="react-partial-anchor.anchor" aria-expanded="false" aria-labelledby="tooltip-567baf99-5b5b-4e07-8c74-538fea41be77" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button AppHeader-buttonRight">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down Button-visual">
+    <button id="global-copilot-menu-button" data-target="react-partial-anchor.anchor" aria-expanded="false" aria-labelledby="tooltip-bc0c26a4-d35c-4f26-a566-05520b0cc76a" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button AppHeader-buttonRight">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down Button-visual">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
-</button><tool-tip id="tooltip-567baf99-5b5b-4e07-8c74-538fea41be77" for="global-copilot-menu-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Open Copilot… (Alt+Shift+C)</tool-tip>
+</button><tool-tip id="tooltip-bc0c26a4-d35c-4f26-a566-05520b0cc76a" for="global-copilot-menu-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Open Copilot… (Alt+Shift+C)</tool-tip>
 
     <template data-target="react-partial-anchor.template">
       
@@ -1367,7 +1367,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
   </span>
-</button><tool-tip id="tooltip-14a3dc54-c88e-43ae-ade8-a68bc0c92326" for="global-create-menu-anchor" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button><tool-tip id="tooltip-13b85add-e6fd-4ac9-97f5-01d17898607b" for="global-create-menu-anchor" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         
@@ -1390,19 +1390,19 @@
     </react-partial-anchor>
 
 
-            <a href="/issues" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-71e1aaa6-1143-47fe-87d9-cb1efef77c90" aria-labelledby="tooltip-6a541212-c88e-4da1-a5bd-fafd15d60e66" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+            <a href="/issues" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-b7ca014f-b3fd-4452-8212-9a1d9cf515ef" aria-labelledby="tooltip-acf2e2aa-1676-4813-b64f-c20ad3dd04b5" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a><tool-tip id="tooltip-6a541212-c88e-4da1-a5bd-fafd15d60e66" for="icon-button-71e1aaa6-1143-47fe-87d9-cb1efef77c90" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Your issues</tool-tip>
+</a><tool-tip id="tooltip-acf2e2aa-1676-4813-b64f-c20ad3dd04b5" for="icon-button-b7ca014f-b3fd-4452-8212-9a1d9cf515ef" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Your issues</tool-tip>
 
-            <a href="/pulls" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-bb19ef3c-04b8-47df-8fb2-013266c6cb86" aria-labelledby="tooltip-b39c995e-340a-444e-a5e6-01338398e1e8" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+            <a href="/pulls" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-cb682509-57db-4d2a-b1fc-234da227be64" aria-labelledby="tooltip-92bdba5a-d2bb-4619-8efb-b0cb3118b138" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a><tool-tip id="tooltip-b39c995e-340a-444e-a5e6-01338398e1e8" for="icon-button-bb19ef3c-04b8-47df-8fb2-013266c6cb86" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Your pull requests</tool-tip>
+</a><tool-tip id="tooltip-92bdba5a-d2bb-4619-8efb-b0cb3118b138" for="icon-button-cb682509-57db-4d2a-b1fc-234da227be64" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Your pull requests</tool-tip>
 
         </div>
 
-          <notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTUyNTg2Mzg3IiwidCI6MTc1MzM0ODA4MH0=--18d9c7fdc1a4796e95027436a320335b0ea92f862868a65d4b1f8056ba16a329" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+          <notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTUyNTg2Mzg3IiwidCI6MTc1MzM0OTM3NX0=--96aca6fc95346514d5d536a6d8739403e26ce9818e319aa88c3b8d113137e018" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
     <a id="AppHeader-notifications-button" href="/notifications" aria-labelledby="notification-indicator-tooltip" data-hotkey="g n" data-target="notification-indicator.link" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;NOTIFICATIONS_HEADER&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button  color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-inbox Button-visual">
     <path d="M2.8 2.06A1.75 1.75 0 0 1 4.41 1h7.18c.7 0 1.333.417 1.61 1.06l2.74 6.395c.04.093.06.194.06.295v4.5A1.75 1.75 0 0 1 14.25 15H1.75A1.75 1.75 0 0 1 0 13.25v-4.5c0-.101.02-.202.06-.295Zm1.61.44a.25.25 0 0 0-.23.152L1.887 8H4.75a.75.75 0 0 1 .6.3L6.625 10h2.75l1.275-1.7a.75.75 0 0 1 .6-.3h2.863L11.82 2.652a.25.25 0 0 0-.23-.152Zm10.09 7h-2.875l-1.275 1.7a.75.75 0 0 1-.6.3h-3.5a.75.75 0 0 1-.6-.3L4.375 9.5H1.5v3.75c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25Z"></path>
 </svg>
@@ -1413,7 +1413,7 @@
 
         <div class="AppHeader-user">
           <deferred-side-panel data-url="/_side-panels/user?repository_id=1024967531">
-  <include-fragment data-target="deferred-side-panel.fragment" data-nonce="v2:c0eba736-28cd-be05-391f-b294e12a041a" data-view-component="true">
+  <include-fragment data-target="deferred-side-panel.fragment" data-nonce="v2:dd3f0864-a90b-8f5c-cbfe-fade969b1924" data-view-component="true">
   
     <react-partial-anchor
   
@@ -1542,7 +1542,7 @@
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/AdityaNMGHUB/Customer-Churn-Prediction/security/overall-count" accept="text/fragment+html" data-nonce="v2:c0eba736-28cd-be05-391f-b294e12a041a" data-view-component="true">
+          <include-fragment src="/AdityaNMGHUB/Customer-Churn-Prediction/security/overall-count" accept="text/fragment+html" data-nonce="v2:dd3f0864-a90b-8f5c-cbfe-fade969b1924" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1576,22 +1576,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-button" popovertarget="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-overlay" aria-controls="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-list" aria-haspopup="true" aria-labelledby="tooltip-6092ad87-4828-42a1-bfbc-6a5b9dc692d2" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-button" popovertarget="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-overlay" aria-controls="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-list" aria-haspopup="true" aria-labelledby="tooltip-6de542fc-72b7-405f-ad50-e7e41d872618" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-6092ad87-4828-42a1-bfbc-6a5b9dc692d2" for="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-6de542fc-72b7-405f-ad50-e7e41d872618" for="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-overlay" anchor="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-overlay" anchor="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-button" id="action-menu-574a3c73-59a7-4ed4-be05-47f486e8b624-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-button" id="action-menu-d44b0f91-5385-40d9-9a26-463a65b00c99-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-694bff8b-9af3-4f07-8813-049e5e716298" href="/AdityaNMGHUB/Customer-Churn-Prediction" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-7f799072-7d27-49fd-980d-8e0e8463958a" href="/AdityaNMGHUB/Customer-Churn-Prediction" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1607,7 +1607,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-00fa0385-c6a6-42ea-b141-e96303d3eedf" href="/AdityaNMGHUB/Customer-Churn-Prediction/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-2d813f2f-2b3b-4d41-a944-d8f8bd4a52ed" href="/AdityaNMGHUB/Customer-Churn-Prediction/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1623,7 +1623,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-6f7cb0be-237e-4519-9ff3-b2b638959b86" href="/AdityaNMGHUB/Customer-Churn-Prediction/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e49c6ccc-8124-43e8-8f20-487fc4ec318d" href="/AdityaNMGHUB/Customer-Churn-Prediction/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1639,7 +1639,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-07ca8d4b-fb5a-4993-a11b-dfdf0576d3ae" href="/AdityaNMGHUB/Customer-Churn-Prediction/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-b3d2343e-b511-4e59-80bb-453f37944d23" href="/AdityaNMGHUB/Customer-Churn-Prediction/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1655,7 +1655,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-12b118da-e888-4aed-92a6-688db2a3cebe" href="/AdityaNMGHUB/Customer-Churn-Prediction/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-65853bbd-b85c-4993-a1db-05b63d12dfb9" href="/AdityaNMGHUB/Customer-Churn-Prediction/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1671,7 +1671,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-9fcf7cfc-25a7-4d53-a3ef-381b929ac18f" href="/AdityaNMGHUB/Customer-Churn-Prediction/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c1ec02d8-6def-4b93-a518-e0f2a9dd03ff" href="/AdityaNMGHUB/Customer-Churn-Prediction/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1687,7 +1687,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-3ff7f1d0-1ef9-4b4c-9372-a5ea242ccdf4" href="/AdityaNMGHUB/Customer-Churn-Prediction/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-19eedc99-b267-42aa-b52d-8fba56e76456" href="/AdityaNMGHUB/Customer-Churn-Prediction/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1723,10 +1723,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-00778215-4e90-49c4-ba53-a686c3bee6e5" aria-labelledby="tooltip-3414a673-8d8b-4e42-a49d-3bfd978bc412" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-82cc2ec1-5b78-4779-876e-a557252d26b6" aria-labelledby="tooltip-57519877-5aa8-4055-97f2-6d8564db273b" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-3414a673-8d8b-4e42-a49d-3bfd978bc412" for="icon-button-00778215-4e90-49c4-ba53-a686c3bee6e5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-57519877-5aa8-4055-97f2-6d8564db273b" for="icon-button-82cc2ec1-5b78-4779-876e-a557252d26b6" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1770,7 +1770,7 @@
 
 
     
-  <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTUyNTg2Mzg3IiwidCI6MTc1MzM0ODA4MH0=--18d9c7fdc1a4796e95027436a320335b0ea92f862868a65d4b1f8056ba16a329" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+  <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTUyNTg2Mzg3IiwidCI6MTc1MzM0OTM3NX0=--96aca6fc95346514d5d536a6d8739403e26ce9818e319aa88c3b8d113137e018" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1833,7 +1833,7 @@
   data-react-profiling="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"Customer_Churn_Prediction.ipynb","path":"Customer_Churn_Prediction.ipynb","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"app.py","path":"app.py","contentType":"file"},{"name":"logistic_model.pkl","path":"logistic_model.pkl","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"}],"totalCount":5}},"fileTreeProcessingTime":2.53984,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":1024967531,"defaultBranch":"main","name":"Customer-Churn-Prediction","ownerLogin":"AdityaNMGHUB","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2025-07-23T19:44:02.000+05:30","ownerAvatar":"https://avatars.githubusercontent.com/u/217002455?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1753280042.0","canEdit":true,"refType":"branch","currentOid":"5c826b996714876aa2502f9c54c34b5fbc45de55"},"path":"requirements.txt","currentUser":{"id":152586387,"login":"prashantmishra012","userEmail":"mishraprashantpm2005@gmail.com"},"blob":{"rawLines":["streamlit","scikit-learn","pandas","numpy"],"stylingDirectives":null,"colorizedLines":["\u003cspan class=\"pl-en\"\u003estreamlit\u003c/span\u003e","\u003cspan class=\"pl-en\"\u003escikit-learn\u003c/span\u003e","\u003cspan class=\"pl-en\"\u003epandas\u003c/span\u003e","\u003cspan class=\"pl-en\"\u003enumpy\u003c/span\u003e"],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/AdityaNMGHUB/Customer-Churn-Prediction/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false},"displayName":"requirements.txt","displayUrl":"https://github.com/AdityaNMGHUB/Customer-Churn-Prediction/blob/main/requirements.txt?raw=true","headerInfo":{"blobSize":"36 Bytes","deleteTooltip":"Fork this repository and delete the file","editTooltip":"Fork this repository and edit the file","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"f193b6d","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FAdityaNMGHUB%2FCustomer-Churn-Prediction%2Fblob%2Fmain%2Frequirements.txt","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"4","truncatedSloc":"4"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Pip Requirements","languageID":684385621,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/AdityaNMGHUB/Customer-Churn-Prediction/blob/main/requirements.txt","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/AdityaNMGHUB/Customer-Churn-Prediction/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/AdityaNMGHUB/Customer-Churn-Prediction/raw/refs/heads/main/requirements.txt","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":true,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":true,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true,"csrf_tokens":{"/AdityaNMGHUB/Customer-Churn-Prediction/branches":{"post":"PsNmM6XKjKwWJozizT1ZieowrzD_rsTr1g53cTv3V-ATOMhX5BvCnbVvi8npQu0ZBRWhoxCzu8K4xWt9yN8KVQ"},"/repos/preferences":{"post":"m4uQ4vCy9jLUKnGMc6l0yXL8_Fa8Nm40kHknTF5d5cXSwAV7rn46-ozENM14l5kEA2QM7cCgyXkSuFN_smMFlw"}}},"title":"Customer-Churn-Prediction/requirements.txt at main · AdityaNMGHUB/Customer-Churn-Prediction","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-263cab1760dd.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-0b6f8702959e.js","githubDevUrl":"https://github.dev/","enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":true,"accessible_code_button":true}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"Customer_Churn_Prediction.ipynb","path":"Customer_Churn_Prediction.ipynb","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"app.py","path":"app.py","contentType":"file"},{"name":"logistic_model.pkl","path":"logistic_model.pkl","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"}],"totalCount":5}},"fileTreeProcessingTime":2.507117,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":1024967531,"defaultBranch":"main","name":"Customer-Churn-Prediction","ownerLogin":"AdityaNMGHUB","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2025-07-23T19:44:02.000+05:30","ownerAvatar":"https://avatars.githubusercontent.com/u/217002455?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1753280042.0","canEdit":true,"refType":"branch","currentOid":"5c826b996714876aa2502f9c54c34b5fbc45de55"},"path":"requirements.txt","currentUser":{"id":152586387,"login":"prashantmishra012","userEmail":"mishraprashantpm2005@gmail.com"},"blob":{"rawLines":["streamlit","scikit-learn","pandas","numpy"],"stylingDirectives":null,"colorizedLines":["\u003cspan class=\"pl-en\"\u003estreamlit\u003c/span\u003e","\u003cspan class=\"pl-en\"\u003escikit-learn\u003c/span\u003e","\u003cspan class=\"pl-en\"\u003epandas\u003c/span\u003e","\u003cspan class=\"pl-en\"\u003enumpy\u003c/span\u003e"],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/AdityaNMGHUB/Customer-Churn-Prediction/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false},"displayName":"requirements.txt","displayUrl":"https://github.com/AdityaNMGHUB/Customer-Churn-Prediction/blob/main/requirements.txt?raw=true","headerInfo":{"blobSize":"36 Bytes","deleteTooltip":"Fork this repository and delete the file","editTooltip":"Fork this repository and edit the file","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"f193b6d","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FAdityaNMGHUB%2FCustomer-Churn-Prediction%2Fblob%2Fmain%2Frequirements.txt","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"4","truncatedSloc":"4"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Pip Requirements","languageID":684385621,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/AdityaNMGHUB/Customer-Churn-Prediction/blob/main/requirements.txt","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/AdityaNMGHUB/Customer-Churn-Prediction/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/AdityaNMGHUB/Customer-Churn-Prediction/raw/refs/heads/main/requirements.txt","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":true,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":true,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true,"csrf_tokens":{"/AdityaNMGHUB/Customer-Churn-Prediction/branches":{"post":"VmX0gS0xyGoMcK5DTIt6C6_LWv6srDtYt6Cz_hJEi5N7nlrlbOCGW685qWho9M6bQO5UbUOxRHHZa6_y4WzWJg"},"/repos/preferences":{"post":"_efCGkcbKC0xqM0kZvPeIzuQVl4O4yeCCH1FIhibMRe0rFeDGdfk5WlGiGVtzTPuSgim5XJ1gM-KvDER9KXRRQ"}}},"title":"Customer-Churn-Prediction/requirements.txt at main · AdityaNMGHUB/Customer-Churn-Prediction","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-263cab1760dd.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-0b6f8702959e.js","githubDevUrl":"https://github.dev/","enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":true,"accessible_code_button":true}}}</script>
   <div data-target="react-app.reactRoot"><style data-styled="true" data-styled-version="5.3.11">.gISSDQ{width:100%;}/*!sc*/
 @media screen and (min-width:544px){.gISSDQ{width:100%;}}/*!sc*/
 @media screen and (min-width:768px){.gISSDQ{width:auto;}}/*!sc*/
